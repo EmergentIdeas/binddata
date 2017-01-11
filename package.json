@@ -1,0 +1,28 @@
+{
+  "name": "binddata",
+  "version": "1.0.0",
+  "description": "A two way html to object form binding jquery plugin. An npm package of https://github.com/jdavidw13/jquery-binddata",
+  "main": "binddata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/binddata.git"
+  },
+  "keywords": [
+    "html",
+    "form",
+    "bind",
+    "object",
+    "mapping",
+    "jquery",
+    "plugin"
+  ],
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/binddata/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/binddata#readme"
+}
